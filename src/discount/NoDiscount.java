@@ -5,3 +5,4 @@ public class NoDiscount implements DiscountStyle{
         return billAmount;
     }
 }
+//

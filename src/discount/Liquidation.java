@@ -7,3 +7,4 @@ public class Liquidation implements DiscountStyle{
         return discountedBill;
     }
 }
+//

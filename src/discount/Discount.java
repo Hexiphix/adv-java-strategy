@@ -7,3 +7,4 @@ public class Discount implements DiscountStyle{
         return discountedBill;
     }
 }
+//
